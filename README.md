@@ -1,5 +1,5 @@
-Yes
 
+### COMP3104
 
-&nbsp;
-
+# GitHub Actions Status Badge
+[![CI](https://github.com/Jonker88/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/Jonker88/COMP3104/actions/workflows/ci.yml)
